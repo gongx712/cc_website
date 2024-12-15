@@ -1,0 +1,50 @@
+h1{
+    color:rgb(105, 29, 29);
+}
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+img{
+    width: 10%;
+    padding: 20px
+}
+
+ul{
+    list-style: None;
+    padding: 0px;
+    display: flex;
+}
+
+li{
+    margin-right: 5%;
+}
+
+.middle-content{
+    margin-top: 50px;
+    display: flex;
+    padding: 20px
+}
+
+.column{
+    margin-right: 3%;
+    color: rgb(255, 153, 0)
+}
+
+.top-content{
+    padding: 20px
+}
+
+footer{
+    text-align: center;
+}
+
+#middle-column{
+    color:rgb(255, 52, 52)
+}
+
+body{
+    background-color: rgb(255, 241, 223);
+}
